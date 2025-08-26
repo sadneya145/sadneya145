@@ -85,13 +85,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadneya145&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadneya145&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
 ---
-
-## 📈 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sadneya145&label=Profile%20views&color=0e75b6&style=flat" alt="sadneya145" />
-</p>
